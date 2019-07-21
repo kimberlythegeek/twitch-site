@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Cookie&display=swap');
+
+.site-brand {
+  font-family: 'Cookie', cursive;
+}
+.navbar-brand span {
+  color: white;
+}
+body {
+  background: url('./media/background.png') no-repeat center;
+  background-size: cover;
+}
